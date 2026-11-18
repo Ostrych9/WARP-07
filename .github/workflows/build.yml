@@ -24,4 +24,8 @@ jobs:
 
       - name: Restore dependencies
         shell: bash
-        run: dotnet restore "WARP-07.Demo"
+        run: dotnet restore "WARP07.Demo"
+
+      - name: Build project
+        shell: bash
+        run: dotnet build "WARP07.Demo" --configuration Release --no-restore
