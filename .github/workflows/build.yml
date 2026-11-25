@@ -10,7 +10,7 @@ on:                            # obiekt zagnieżdżony
       - main
 
 env:
-  PROJECT_PATH: WARP07.Demo
+  PROJECT_PATH: ./WARP07.Demo/WARP07.Demo.csproj
   DOTNET_VERSION: 10.0.x
 
 jobs:
