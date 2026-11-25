@@ -1,0 +1,15 @@
+C:\Users\s37534\repos\warp-07\WARP07.Demo\bin\Release\net10.0\WARP07.Demo.exe
+C:\Users\s37534\repos\warp-07\WARP07.Demo\bin\Release\net10.0\WARP07.Demo.deps.json
+C:\Users\s37534\repos\warp-07\WARP07.Demo\bin\Release\net10.0\WARP07.Demo.runtimeconfig.json
+C:\Users\s37534\repos\warp-07\WARP07.Demo\bin\Release\net10.0\WARP07.Demo.dll
+C:\Users\s37534\repos\warp-07\WARP07.Demo\bin\Release\net10.0\WARP07.Demo.pdb
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.AssemblyInfoInputs.cache
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.AssemblyInfo.cs
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.csproj.CoreCompileInputs.cache
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.sourcelink.json
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.dll
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\refint\WARP07.Demo.dll
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.pdb
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\WARP07.Demo.genruntimeconfig.cache
+C:\Users\s37534\repos\warp-07\WARP07.Demo\obj\Release\net10.0\ref\WARP07.Demo.dll

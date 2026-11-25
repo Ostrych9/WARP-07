@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WARP07.Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+255d775b3df4dfc40d251f6fd5699513f52cb431")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1718e14fb357d482345e29bb4187cee7c32d8cba")]
 [assembly: System.Reflection.AssemblyProductAttribute("WARP07.Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WARP07.Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
